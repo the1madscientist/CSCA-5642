@@ -1,2 +1,4 @@
 # CSCA-5642
 CSCA 5642 Introduction to Deep Learning Final Project
+
+For my final project, I will be attempting to create several networks to classify a time series dataset. The networks I will be attempting will be a convolution neural network, and a transformer based model, and a third model I haven't decided on yet. The dataset that will be used is the FordA set from the UCR archive. The dataset consist of 3601 training instances and another 1320 testing instances. I will be using the kaggle tutorials: Timeseries classification from scratch, and Timeseries classification with a Transformer model, as starting points and to help me to understand the problem as we have not covered time series as part of the course. I will then try to build a models of my own architecture, and compare it to several other models.
